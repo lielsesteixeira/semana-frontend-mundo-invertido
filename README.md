@@ -11,7 +11,7 @@ Projeto construído para fins didáticos, com o objetivo de colocar em prática 
 
 <br><br>
 
-Landing page com a temática da série Stranger Things,com  theme switcher (light e dark) e tela de cadasco com integração com firebase.
+Landing page com a temática da série Stranger Things,com  theme switcher (light e dark) e tela de cadastro com integração com firebase.
 
 <br>
 </div>
